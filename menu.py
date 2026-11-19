@@ -1,0 +1,8 @@
+print("menu es campur")
+print("--------------")
+print("1. es campur original")
+print("2. es campur teler")
+print("3. es campur spesial ")
+print("4. es campur creamy")
+print("5. es campur super")
+print("6. es campur jumbo")
